@@ -32,11 +32,13 @@ Proyek ini adalah aplikasi berbasis **Streamlit** yang terhubung dengan **MongoD
 
 ## 📂 Struktur Folder
 ```
-📦 toko-online-project
- ┣ 📜 app.py               # File utama aplikasi Streamlit
- ┣ 📜 requirements.txt      # Dependencies proyek
- ┣ 📜 README.md            # Dokumentasi proyek
- ┗ 📂 assets               # Folder untuk gambar/background
+📦 Study Group Project big data
+ ┣ 📂 Membuat Collection Baru        # Script untuk membuat koleksi baru di MongoDB
+ ┣ 📂 Input 5 Jenis Barang Pada Colabs # Notebook untuk input awal 5 produk
+ ┣ 📂 Colection dan Produk          # Menampilkan daftar koleksi dan produk
+ ┣ 📂 GUI Baru dengan Nama & Anggota Kelompok # GUI interaktif berbasis Streamlit
+ ┣ 📂 Input 2 Jenis Produk Baru Melalui GUI Baru # Menambahkan produk dari GUI
+ ┗ 📂 Status Terbaru Pada Mongodb   # Mengecek status terkini produk dalam database
 ```
 
 ## 🤝 Kontributor
